@@ -1,0 +1,26 @@
+Form
+- Để gửi dữ liệu lên server
+- Thuộc tính:
+    - Action : url mình gửi dữ liệu
+    - Method : Cách thức gửi dữ liệu lên server
+        - GET: hiển thị trên thanh url
+        - POST: đưa dữ dưới dạng ngầm
+
+- Gom nhóm các trường input
+    - fieldset - Khung form
+    - legend - Tiêu đề form
+    - label - Tiêu đề ô input (tương tư thẻ p)
+    - input - Nhập dữ liệu (22 type)
+        - text
+        - radio
+        - checkbox
+        - ...
+    - button - các nút
+
+Table
+    - Table
+    - tr - table row - Hàng
+    - td - table data - Dữ liệu cell trên 1 row
+    - th - table heading - Tiêu đề
+
+Format code: Ctrl + Alt + L
